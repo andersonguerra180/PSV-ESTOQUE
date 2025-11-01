@@ -385,9 +385,6 @@ class GestaoEstoque
         } while (opcao != 0);
     }
 }
-[17:30, 01/11/2025] Julio Pedro: using System;
-using System.Collections.Generic;
-using System.Linq;
 
 class GestaoArmazenamento
 {
