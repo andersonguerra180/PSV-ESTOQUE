@@ -208,11 +208,6 @@ class GestaoEstoque
     }
 }
 
-[17:21, 01/11/2025] Julio Pedro: using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-
 class GestaoEstoque
 {
     private class ItemEstoque
