@@ -1,0 +1,15 @@
+/Users/user/PSV/bin/Debug/net9.0/PSV
+/Users/user/PSV/bin/Debug/net9.0/PSV.deps.json
+/Users/user/PSV/bin/Debug/net9.0/PSV.runtimeconfig.json
+/Users/user/PSV/bin/Debug/net9.0/PSV.dll
+/Users/user/PSV/bin/Debug/net9.0/PSV.pdb
+/Users/user/PSV/obj/Debug/net9.0/PSV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/PSV/obj/Debug/net9.0/PSV.AssemblyInfoInputs.cache
+/Users/user/PSV/obj/Debug/net9.0/PSV.AssemblyInfo.cs
+/Users/user/PSV/obj/Debug/net9.0/PSV.csproj.CoreCompileInputs.cache
+/Users/user/PSV/obj/Debug/net9.0/PSV.sourcelink.json
+/Users/user/PSV/obj/Debug/net9.0/PSV.dll
+/Users/user/PSV/obj/Debug/net9.0/refint/PSV.dll
+/Users/user/PSV/obj/Debug/net9.0/PSV.pdb
+/Users/user/PSV/obj/Debug/net9.0/PSV.genruntimeconfig.cache
+/Users/user/PSV/obj/Debug/net9.0/ref/PSV.dll

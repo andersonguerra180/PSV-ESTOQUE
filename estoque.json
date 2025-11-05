@@ -1,0 +1,16 @@
+[
+  {
+    "Nome": "farinha",
+    "Unidade": "kg",
+    "Quantidade": 1,
+    "Validade": "2025-12-05T07:50:27.024039-03:00",
+    "DataUltimaAtualizacao": "2025-11-05T07:50:27.061216-03:00"
+  },
+  {
+    "Nome": "leite",
+    "Unidade": "l",
+    "Quantidade": 20,
+    "Validade": "2025-12-05T07:53:03.53569-03:00",
+    "DataUltimaAtualizacao": "2025-11-05T07:53:22.177789-03:00"
+  }
+]

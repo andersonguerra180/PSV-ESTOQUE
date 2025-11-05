@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "d81cc8dc-9f8d-440b-a310-a91e52b747e9",
+    "Usuario": "admin",
+    "Descricao": "Adicionado 1 kg de farinha (Val: 05/12/2025)",
+    "DataHora": "2025-11-05T07:50:27.064512-03:00"
+  },
+  {
+    "Id": "0943b45c-3bb6-4cb3-836f-c1f29a5808ed",
+    "Usuario": "admin",
+    "Descricao": "Adicionado 40 l de leite (Val: 05/12/2025)",
+    "DataHora": "2025-11-05T07:53:03.536019-03:00"
+  },
+  {
+    "Id": "08a55e7e-a889-4dec-94c0-a530b261b804",
+    "Usuario": "admin",
+    "Descricao": "Liberado 20 l de leite para Anderson",
+    "DataHora": "2025-11-05T07:53:22.17859-03:00"
+  }
+]
